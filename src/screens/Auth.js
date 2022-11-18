@@ -13,6 +13,7 @@ const AuthScreen = () => {
       case "signIn":
         console.log("data from signup: ",data)
         setAuthUser(data);
+        loginWithGoogle(data);
         break;
       case "signOut":
         setAuthUser(null);
