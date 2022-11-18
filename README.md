@@ -7,7 +7,7 @@ steps taken:
 
 you can skip manual dependency stuff that I did and run `yarn`
 
-followed the docs (here)[https://docs.amplify.aws/lib/auth/social/q/platform/react-native/#setup-your-auth-provider]
+followed the docs [here](https://docs.amplify.aws/lib/auth/social/q/platform/react-native/#setup-your-auth-provider)
 
 `amplify init`
 `amplify add auth`
